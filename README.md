@@ -1,7 +1,7 @@
 # Startpage
 Um projeto escolar feito com HTML e CSS
 
-Feito por Gabriel Henrique De S. Barbosa
+Feito por Gabriel Souza
 
 
 ### 💻 Setup
